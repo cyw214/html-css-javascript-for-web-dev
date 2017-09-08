@@ -43,7 +43,6 @@ p {
   text-align: center;
   font-size: 120%;
   font-style: bold;
-
 }
 
 #chicken-label {
@@ -64,17 +63,14 @@ p {
 /* Desktop View */
 @media (min-width: 992px){
   .desktop {
-    position: relative;
     width: 33.33%;
     float: left;
   }
-  
 }
 
 /* Tablet View*/
 @media (min-width: 768px) and (max-width: 991px) {
   .tablet1 {
-    /*position: relative;*/
     width: 50%;
     float:left;
     margin-bottom: 10px;
@@ -83,7 +79,6 @@ p {
     width: 100%;
     clear: left;
   }
-
 }
 
 /* Mobile View*/
