@@ -6,4 +6,4 @@ This module examines css media queries as they are applied to responsive layout 
 
 ##  Module 3
 
-This module examines bootstrap's navbar classes, specifically the collapsable navbar available for the mobile viewport, along with various other bootstrap classes. When viewed from a mobile phone, a menu is madae available for navigating each div. The final product can be found [here](https://cyw214.github.io/html-css-javascript-for-web-dev/module3-solution).
+This module examines bootstrap's navbar classes, specifically the collapsable navbar available for the mobile viewport, along with various other bootstrap classes. When viewed from a mobile phone, a menu is madae available for navigating each div. While viewed from a tablet viewport or desktop viewport the menu option does not appear The final product can be found [here](https://cyw214.github.io/html-css-javascript-for-web-dev/module3-solution).
