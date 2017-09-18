@@ -1,6 +1,5 @@
 body {
   font-size: 16px;
-
   background-color: #667292;
   font-family: 'Oxygen', sans-serif;
 }
@@ -47,27 +46,34 @@ h1 {
 }
 
 
+.row {
+	margin-bottom: 10px;
+}
+
+.menu-title {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
 
 #chicken {
 	border-radius: 25px;
 	background-color: #bccad6;
 	color: black;
-	padding: 10px 20px 10px 20px;
-	margin: 20px;
+	padding: 0px 10px 10px 10px;
 }
 
 #beef {
 	border-radius: 25px;
 	background-color: #b7d7e8;
 	color: black;
-	padding: 10px 20px 10px 20px;
-	margin: 20px;
+	padding: 0px 10px 10px 10px;
+
 }
 
 #sushi {
 	border-radius: 25px;
 	background-color: #87bdd8;
 	color: black;
-	padding: 10px 20px 10px 20px;
-	margin: 20px;
+	padding: 0px 10px 10px 10px;
+
 }
