@@ -27,15 +27,14 @@ h1 {
 }
 
 #drop-down-menu {
-	background-color: #222;
 	text-align: center;
 }
 
 #drop-down-menu li {
 	border: solid;
-	border-color: #222;
+	border-color: floralwhite;
 	border-radius: 25px;
-	background-color: #667292;
+	background-color: #222;
 }
 
 #drop-down-menu a {
@@ -43,37 +42,56 @@ h1 {
 	text-decoration: none;
 	font-size: 25px;
 	font-weight: bold;
+	
 }
 
+
+#main-menu-title {
+	text-shadow: 1px 5px black;
+	color: floralwhite;
+	background-color: #222;
+	border-radius: 25px ;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+	border:solid;
+	border-color: floralwhite;
+
+}
 
 .row {
 	margin-bottom: 10px;
 }
 
 .menu-title {
+	border-radius: 25px 25px 0px 0px;
 	padding-top: 20px;
 	padding-bottom: 20px;
+	margin-bottom: 0px;
+	background-color: #222;
+	color: floralwhite;
+
 }
 
 #chicken {
-	border-radius: 25px;
+	border-radius: 0px 0px 25px 25px;
 	background-color: #bccad6;
 	color: black;
-	padding: 0px 10px 10px 10px;
+	padding: 20px 15px 15px 10px;
 }
 
 #beef {
-	border-radius: 25px;
+	border-radius: 0px 0px 25px 25px;
 	background-color: #b7d7e8;
 	color: black;
-	padding: 0px 10px 10px 10px;
+	padding: 20px 15px 20px 15px;
 
 }
 
 #sushi {
-	border-radius: 25px;
+	border-radius: 0px 0px 25px 25px;
 	background-color: #87bdd8;
 	color: black;
-	padding: 0px 10px 10px 10px;
+	padding: 20px 15px 20px 15px;
 
 }
